@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EthTransactions/static/css/main.fcf8a665.chunk.css",
+    "main.js": "/EthTransactions/static/js/main.603b5aab.chunk.js",
+    "main.js.map": "/EthTransactions/static/js/main.603b5aab.chunk.js.map",
+    "runtime-main.js": "/EthTransactions/static/js/runtime-main.4198cad7.js",
+    "runtime-main.js.map": "/EthTransactions/static/js/runtime-main.4198cad7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/EthTransactions/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.36d8cbe9.chunk.js": "/EthTransactions/static/js/2.36d8cbe9.chunk.js",
+    "static/js/2.36d8cbe9.chunk.js.map": "/EthTransactions/static/js/2.36d8cbe9.chunk.js.map",
+    "static/js/3.647d5086.chunk.js": "/EthTransactions/static/js/3.647d5086.chunk.js",
+    "static/js/3.647d5086.chunk.js.map": "/EthTransactions/static/js/3.647d5086.chunk.js.map",
+    "index.html": "/EthTransactions/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/EthTransactions/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.fcf8a665.chunk.css.map": "/EthTransactions/static/css/main.fcf8a665.chunk.css.map",
+    "static/js/2.36d8cbe9.chunk.js.LICENSE.txt": "/EthTransactions/static/js/2.36d8cbe9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4198cad7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.36d8cbe9.chunk.js",
+    "static/css/main.fcf8a665.chunk.css",
+    "static/js/main.603b5aab.chunk.js"
+  ]
+}

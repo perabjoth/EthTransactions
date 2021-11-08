@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAGA,UACE,cAAe,CACf,sBAAuB,CACvB,eAAgB,CAChB,kBACF","file":"main.fcf8a665.chunk.css","sourcesContent":[".App{\n  height:100vh;\n}\n\n\n.ellipsis {\n  max-width: 40px;\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;\n}"]}
